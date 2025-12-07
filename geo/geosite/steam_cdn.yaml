@@ -1,0 +1,5 @@
+# Steam国内CDN分流
+payload:
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
