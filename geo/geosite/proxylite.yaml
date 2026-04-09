@@ -1,0 +1,24 @@
+payload:
+  # 国外公共 DNS
+  - '+.dns.google'
+  - '1dot1dot1dot1.cloudflare-dns.com'
+  - 'dot.sb'
+  - 'dns.umbrella.com'
+  - 'dns.quad9.net'
+  - 'cloudflare-dns.com'
+  - 'doh.dns.sb'
+  - 'doh.opendns.com'
+  - 'hk-hkg.doh.sb'
+  - '+.akamaihd.net'
+  - '+.cloudfront.net'
+
+    # Google 服务
+  - '+.1e100.net'
+  
+  - '+.googleapis.cn'
+  - '+.gstatic.com'
+  - '+.google.com'
+  - '+.googleapis.com'
+  - '+.googlevideo.com'
+  - '+.ggpht.com'
+  - '+.ytimg.com'
